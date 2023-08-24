@@ -1,0 +1,23 @@
+{
+  "name": "drilling-6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carlos171090/Drilling-6.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Carlos171090/Drilling-6/issues"
+  },
+  "homepage": "https://github.com/Carlos171090/Drilling-6#readme",
+  "keywords": [],
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
